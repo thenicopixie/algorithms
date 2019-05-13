@@ -1,5 +1,5 @@
 # Algorithms
-
+![Algorithms](https://www.memecreator.org/static/images/memes/4791947.jpg)
 ---
 Folder | Description
 -------|-------------
