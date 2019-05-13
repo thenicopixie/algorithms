@@ -2,6 +2,7 @@
 
 ---
 Folder | Description
+-------|-------------
 JavaScript | Algorithms done in JavaScript
 
 
