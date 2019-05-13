@@ -4,7 +4,7 @@
 Folder | Description
 -------|-------------
 JavaScript | Algorithms done in JavaScript
-
+Python | Algorithms done in Python
 
 #### Author
 Nicole Swanson
