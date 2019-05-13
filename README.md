@@ -1,2 +1,9 @@
-# algorithms
-Repo of Algorithms I have completed
+# Algorithms
+
+---
+Folder | Description
+JavaScript | Algorithms done in JavaScript
+
+
+#### Author
+Nicole Swanson
